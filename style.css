@@ -1,0 +1,16 @@
+input{
+    margin:10px;
+}
+#submit_button{
+    margin-top: 20px;
+margin-bottom: 20px;
+color:white;
+background-color: salmon;
+}
+#sort_button{
+    display:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:white;
+    background-color: salmon;
+}
